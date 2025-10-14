@@ -1,1 +1,4 @@
 Mi 2do intento de subir local a Git Hub, solo usando VsCode 
+Holi probando solo usando commit desde Vs Code y luego git push master main para que se suba desde mi compu a Git Hub
+att 17:28 Amy
+

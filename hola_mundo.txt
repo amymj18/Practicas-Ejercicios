@@ -3,5 +3,4 @@ Este es mi primer archivo en Git
 Mi primera contribucion local para Git Hub
 Intento de usar git push.
 Mi primer intento de subir local a Git Hub
-kk
-local
+Mi intento de subir solo usando VsCode 
